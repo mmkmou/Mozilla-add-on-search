@@ -1,0 +1,3 @@
+[submodule "addon-sdk"]
+	path = addon-sdk
+	url = /home/mmkmou/logiciel/addon-sdk/
