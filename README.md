@@ -1,5 +1,9 @@
-This is the mozsearch add-on.  It contains:
+#Mozilla add-on Search 
 
-* A program (lib/main.js).
-* A few tests.
-* Some meager documentation.
+## Overview 
+
+This add-on help you tu search a string selected on some Mozilla website 
+
+* Mozilla Developper Network.
+* Mozilla Hack.
+* Mozilla Wiki.
